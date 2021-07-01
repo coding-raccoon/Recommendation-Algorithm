@@ -1,0 +1,4 @@
+hidden_units:32 
+l2_lambda: 0.1 
+activation: sigmoid 
+learning_rate: 0.01
